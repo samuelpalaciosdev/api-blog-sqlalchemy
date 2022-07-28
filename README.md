@@ -1,3 +1,3 @@
-# Creating Star Wars API Using Python SqlAlchemy
+# Creating Blog API Using Python SqlAlchemy
 
-Star Wars API Using Python SqlAlchemy😀
+Blog API Using SqlAlchemy😀
